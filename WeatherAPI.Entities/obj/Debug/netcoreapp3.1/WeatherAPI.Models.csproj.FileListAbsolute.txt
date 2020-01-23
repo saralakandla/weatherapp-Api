@@ -1,0 +1,8 @@
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\bin\Debug\netcoreapp3.1\WeatherAPI.Models.deps.json
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\bin\Debug\netcoreapp3.1\WeatherAPI.Models.dll
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\obj\Debug\netcoreapp3.1\WeatherAPI.Models.AssemblyInfoInputs.cache
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\obj\Debug\netcoreapp3.1\WeatherAPI.Models.AssemblyInfo.cs
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\bin\Debug\netcoreapp3.1\WeatherAPI.Models.pdb
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\obj\Debug\netcoreapp3.1\WeatherAPI.Models.dll
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\obj\Debug\netcoreapp3.1\WeatherAPI.Models.pdb
+E:\sarla_web\.netcore3.1\WeatherAPI\WeatherAPI.Models\obj\Debug\netcoreapp3.1\WeatherAPI.Models.csprojAssemblyReference.cache
